@@ -1,5 +1,5 @@
-# HUMCOM1
+# Hello-UB
 John Patrick B Liu
 Welcome University of Baugio
-#hello UB
+This is example of a repository for HUMCOM1 class!
 
